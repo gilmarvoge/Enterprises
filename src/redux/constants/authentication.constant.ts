@@ -1,0 +1,6 @@
+export const userConstants = {
+    USER_SIGNIN: 'USER_SIGNIN',   
+    USER_SIGNOUT: 'USER_SIGNOUT',
+    USER_GET_REQUEST:'USER_GET_REQUEST',
+    USER_SET: 'USER_SET'
+};
