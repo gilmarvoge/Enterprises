@@ -1,5 +1,4 @@
 ### 📱 Mobile
-https://github.com/gilmarvoge/Enterprises/blob/main/src/assets/images/details.jpg
  ![Mobile login](https://github.com/gilmarvoge/Enterprises/blob/main/src/assets/images/home.jpg)
  ![Mobile home](https://github.com/gilmarvoge/Enterprises/blob/main/src/assets/images/home.jpg)
  ![Mobile filter](https://github.com/gilmarvoge/Enterprises/blob/main/src/assets/images/filter.jpg)
@@ -24,6 +23,8 @@ Utilizado para parsistir o login do usuário.
  Utilizado para agilizar o desenvolvimento.
 * eslint-config-airbnb && eslint && eslint-plugin-jsx-a11y &&  eslint-plugin-import && eslint-plugin-react && eslint-plugin-react-hooks:
  Utilizado para análise estática do código fonte.
+* jest:
+ Utilizado para testes unitários
 
 ### Run
 ```bash
@@ -41,7 +42,4 @@ Login no app
 * User: testeapple@ioasys.com.br
 * Password: 12341234
 
-### Bônus
-* Utilização de Redux / Redux Saga (realizado)
-* Utilização de linters ou outras ferramentas de análise estática(realizado)
-* Testes unitários, interface, (parcialmente)
+
