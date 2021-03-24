@@ -1,5 +1,3 @@
-# Desafio React Native - ioasys
-
 ### Bibliotecas utilizadas
 * typescript:
  Utilizado para tipagem do javascript
